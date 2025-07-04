@@ -34,7 +34,7 @@ const InterpretationPanel: React.FC<InterpretationPanelProps> = ({ interpretatio
                 </h3>
                 <button onClick={onClose} className="text-gray-400 hover:text-white transition-colors text-2xl leading-none font-bold">&times;</button>
             </div>
-            <div className="p-6 overflow-y-auto flex-grow">
+            <div className="p-6 overflow-y-auto flex-grow lg:pb-24">
                 {isLoading && <Loader />}
                 {interpretation && !isLoading && (
                      <p className="whitespace-pre-wrap leading-relaxed text-blue-100/90 font-light">
