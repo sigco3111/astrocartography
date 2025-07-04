@@ -1,0 +1,6 @@
+{
+  "name": "에스트로카토그래피",
+  "description": "An interactive guide to explore your personal astrocartography map. Discover the influence of planetary lines on different locations in your life, with interpretations powered by Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

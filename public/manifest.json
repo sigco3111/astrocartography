@@ -1,0 +1,31 @@
+{
+  "name": "Astrocartography Explorer",
+  "short_name": "AstroMap",
+  "description": "별자리와 출생 정보를 활용한 아스트로카토그래피 지도 탐색기",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#010222",
+  "theme_color": "#010222",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+} 
