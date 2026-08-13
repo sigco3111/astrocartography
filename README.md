@@ -4,7 +4,9 @@
 
 이 프로젝트는 '에스트로카토그래피(Astrocartography)'라는 점성술 기법을 현대적인 웹 기술로 구현한 인터랙티브 애플리케이션입니다. 사용자는 자신의 출생 정보를 기반으로 생성된 개인화된 세계 지도 위에서 행성들의 영향력을 시각적으로 탐색할 수 있습니다. 각 행성선을 클릭하면 Google의 강력한 Gemini AI가 제공하는 깊이 있는 해석을 통해 특정 지역이 자신의 삶에 미칠 수 있는 영향을 알아볼 수 있습니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/astrocartography/
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/astrocartography/)
 
 ---
 
